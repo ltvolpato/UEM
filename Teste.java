@@ -1,4 +1,6 @@
 public class Teste{
-    int num;
-    String nome;
+    public Teste{
+        int num;
+        String nome;
+    }
 }
